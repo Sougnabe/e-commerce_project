@@ -79,8 +79,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $_SESSION['user_id'] = $insert_stmt->insert_id;
         $_SESSION['username'] = $username;
         $_SESSION['user_type'] = $user_type;
-        
-        header('Location: ../../public/login.php?success=registered');
+        $_SESSION['email'] = $email;
+
+        header('Location: ../../public/index.php');
         exit;
     } else {
         header('Location: ../../public/register.php?error=registration_failed');

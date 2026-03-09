@@ -48,20 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['user_type'] = $user['user_type'];
             $_SESSION['email'] = $user['email'];
             
-            // Redirect based on user type
-            switch ($user['user_type']) {
-                case 'admin':
-                    header('Location: ../../src/admin/dashboard.php');
-                    break;
-                case 'seller':
-                    header('Location: ../../src/seller/dashboard.php');
-                    break;
-                case 'customer':
-                    header('Location: ../../src/customer/dashboard.php');
-                    break;
-                default:
-                    header('Location: ../../public/index.php');
-            }
+            header('Location: ../../public/index.php');
             exit;
         } else {
             header('Location: ../../public/login.php?error=invalid_password');
