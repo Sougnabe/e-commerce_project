@@ -18,15 +18,15 @@ $contact_success = $_GET['success'] ?? '';
                 <h3>Get in Touch</h3>
                 <div class="info-item">
                     <strong>Email:</strong>
-                    <p>info@nameeshopping.com</p>
+                    <p>radjieshopping@gmail.com</p>
                 </div>
                 <div class="info-item">
                     <strong>Phone:</strong>
-                    <p>+1 (555) 123-4567</p>
+                    <p>+250795690051</p>
                 </div>
                 <div class="info-item">
                     <strong>Address:</strong>
-                    <p>123 Shopping Street, Commerce City, CC 12345</p>
+                    <p>Kigali, Kimironko</p>
                 </div>
                 <div class="info-item">
                     <strong>Business Hours:</strong>

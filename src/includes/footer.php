@@ -18,8 +18,9 @@
                 </div>
                 <div class="footer-section">
                     <h3>Contact Us</h3>
-                    <p>Email: info@nameeshopping.com</p>
-                    <p>Phone: +1 (555) 123-4567</p>
+                    <p>Email: radjieshopping@gmail.com</p>
+                    <p>Phone: +250795690051</p>
+                    <p>Address: Kigali, Kimironko</p>
                 </div>
             </div>
             <div class="footer-bottom">

@@ -37,9 +37,9 @@ include_once '../src/includes/header.php';
             <h3>Contact Information</h3>
             <p>For any inquiries or feedback, please don't hesitate to contact us:</p>
             <ul>
-                <li>Email: info@nameeshopping.com</li>
-                <li>Phone: +1 (555) 123-4567</li>
-                <li>Address: 123 Shopping Street, Commerce City, CC 12345</li>
+                <li>Email: radjieshopping@gmail.com</li>
+                <li>Phone: +250795690051</li>
+                <li>Address: Kigali, Kimironko</li>
             </ul>
         </div>
     </section>

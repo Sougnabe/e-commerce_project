@@ -274,8 +274,8 @@ ini_set('display_errors', 0);
 ## Support
 
 For issues, feature requests, or questions:
-- Email: info@nameeshopping.com
-- Phone: +1 (555) 123-4567
+- Email: radjieshopping@gmail.com
+- Phone: +250795690051
 
 ## License
 
